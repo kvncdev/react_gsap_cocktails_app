@@ -1,6 +1,9 @@
 import { navLinks } from '../../constants/index.js'
 import { gsap } from 'gsap'
 import { useGSAP } from '@gsap/react'
+// import { backgroundFilter } from 'gsap/all'
+
+// gsap.registerPlugin(backgroundFilter);
 
 const Navbar = () => {
 
